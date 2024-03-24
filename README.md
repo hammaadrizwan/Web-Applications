@@ -1,4 +1,4 @@
-# Web Application Projects
+# Web Applications
 
 Project Links
 1. [Fitzen](https://github.com/hammaadrizwan/Fitzen)
