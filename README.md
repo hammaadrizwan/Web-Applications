@@ -5,4 +5,4 @@ Project Links
 
 2. [WeLearn.lk](https://github.com/hammaadrizwan/WeLearn.lk)
 
-
+3. [Odin Recipes](https://github.com/hammaadrizwan/odin-recipes)
